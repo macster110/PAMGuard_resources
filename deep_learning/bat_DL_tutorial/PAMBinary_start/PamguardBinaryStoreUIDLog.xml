@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><PAMGUARD>
+    <VERSIONINFO Created="12 May 2021 at 08:08:08 UTC" MinAspVersion="2.35.23" Release="BETA" Version="2.01.05ff"/>
+    <MODULES>
+        <MODULE>
+            <BinFilePrefix>Data_Acquisition_Sound_Acquisition_Raw_Data_</BinFilePrefix>
+            <lastUID>54781</lastUID>
+        </MODULE>
+        <MODULE>
+            <BinFilePrefix>Data_Acquisition_Sound_Acquisition_DAQStatus_</BinFilePrefix>
+            <lastUID>1485</lastUID>
+        </MODULE>
+        <MODULE>
+            <BinFilePrefix>Click_Detector_Click_Detector_Clicks_</BinFilePrefix>
+            <lastUID>718000009</lastUID>
+        </MODULE>
+        <MODULE>
+            <BinFilePrefix>Click_Detector_Click_Detector_Trigger_Background_</BinFilePrefix>
+            <lastUID>718000002</lastUID>
+        </MODULE>
+        <MODULE>
+            <BinFilePrefix>LTSA_Long_Term_Spectral_Average_LTSA_</BinFilePrefix>
+            <lastUID>359000002</lastUID>
+        </MODULE>
+    </MODULES>
+</PAMGUARD>
