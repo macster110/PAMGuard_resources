@@ -1,5 +1,5 @@
 # PAMGuard_resources
-A set of comprehensive open sources tutorials for PAMGuard, including test data and settings files. 
+A set of open sources tutorials for PAMGuard, including test data and settings files. 
 
 ## Current Tutorials
 ### Deep Learning
