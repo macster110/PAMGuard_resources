@@ -10,3 +10,20 @@ PAMGuard's deep learning module can import many different types of deep learning
 The deep learning module can be found here. TODO
 
 ## PAMGuard's deep learning module
+
+### How it works
+
+<p align="center">
+  <img width="700" height="430" src = "screenshots/deep_learning_module_help.png">
+</p>
+
+### Module settings
+
+<p align="center">
+  <img width="700" height="430" src = "screenshots/deep_learning_module_help.png">
+</p>
+
+#### Data source
+
+
+### Deep learning framework 
