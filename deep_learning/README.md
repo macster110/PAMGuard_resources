@@ -5,9 +5,9 @@ The continued increase in the storage capacity and battery life of acoustic reco
 
 Deep learning is a subset of machine learning which uses artificial neural networks to train highly accurate classifiers. Deep learning is a popular buzzword today and it has real benefits for acoustics compared to previous machine learning methods. Deep learning classifiers are scalable (i.e. they increases in accuracy with the more training data you feed them) and it automatically extracts features from input data (sort of). This makes deep learning classifiers more accurate than previous machine learning methods and provides us with powerful, deployable and generic methods of building highly accurate acoustic classifiers, enabling large-scale PAM studies. However, whilst a huge code ecosystem exists around deep learning technologies there are still significant technical barriers in deploying deep learning models on acoustic data. This is where PAMGuard comes in. 
 
-PAMGuard's deep learning module can import many different types of deep learning model and this tutorial provides two examples of using the module, one from right whales using a classifier developed by (Shiu et al 2020) and another in which we classify Danish bat species
+PAMGuard's deep learning module can import many different types of deep learning model and this tutorial provides two examples of using the module, one from right whales using a classifier developed by [Shiu et al (2020)](https://www.nature.com/articles/s41598-020-57549-y) and another in which a model trained using the [AnimalSpot](https://github.com/ChristianBergler/ANIMAL-SPOT) framework is used to classify Danish bat species. 
 
-The deep learning module can be found here. TODO
+The full tutorial is located in the [pdf](Deep learning in PAMGuard.pdf). Below is a quick summary of the deep learning module. 
 
 ## PAMGuard's deep learning module
 
