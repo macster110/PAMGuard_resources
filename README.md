@@ -19,4 +19,4 @@ Echolocation clicks can be difficult to accurately classify, especially if they 
   <img width="700" height="390" src = "screenshots/click-train-detector-CPOD.png">
 </p>
 
-_CPOD CP1 detections imported into PAMGuard and plotted against amplitude (dB). PAMGuard's clcik train detector can be used as an alternative for the analysis of CPOD data (info on CPODs and FPODs can be found [here](https://www.chelonia.co.uk/))_
+_CPOD CP1 detections imported into PAMGuard and plotted against amplitude (dB). PAMGuard's click train detector can be used as an alternative for the analysis of CPOD data (info on CPODs and FPODs can be found [here](https://www.chelonia.co.uk/))_
