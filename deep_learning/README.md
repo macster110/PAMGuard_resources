@@ -14,13 +14,13 @@ The deep learning module can be found here. TODO
 ### How it works
 
 <p align="center">
-  <img width="700" height="430" src = "screenshots/deep_learning_module_help.png">
+  <img width="700" height="430" src = "screenshots/Presentation1.png">
 </p>
 
 ### Module settings
 
 <p align="center">
-  <img width="700" height="430" src = "screenshots/deep_learning_module_help.png">
+  <img width="700" height="430" src = "screenshots/deep_leanring_module_help.png">
 </p>
 
 #### Data source
