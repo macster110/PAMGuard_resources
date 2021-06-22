@@ -14,7 +14,7 @@ The full tutorial is located in the [pdf](Deep learning in PAMGuard.pdf). Below 
 ### How it works
 
 <p align="center">
-  <img width="700" height="430" src = "screenshots/Presentation1.png">
+  <img width="700" height="430" src = "screenshots/deep_learning_module_process.png">
 </p>
 
 ### Module settings
