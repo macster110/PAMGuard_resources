@@ -10,7 +10,7 @@ PAMGuard's deep learning module can import many different types of deep learning
 ## Tutorial
 The full tutorial is located in the [Deep learning in PAMGuard.pdf](Deep learning in PAMGuard.pdf) file. 
 
-## Installatioon
+## Installation
 The deep learning module will be available as a core module from PAMGuard 2.01.06 onwards. This can be downloaded from the [PAMGuard website](www.pamguard.org).
 
 ## Other resources
