@@ -8,7 +8,7 @@ Deep learning is a subset of machine learning which uses artificial neural netwo
 PAMGuard's deep learning module can import many different types of deep learning model and this tutorial provides two examples; one for right whales using a deep learning classifier developed by [Shiu et al (2020)](https://www.nature.com/articles/s41598-020-57549-y) and another in which a model trained using the [AnimalSpot](https://github.com/ChristianBergler/ANIMAL-SPOT) framework is used to classify Danish bat species. 
 
 ## Tutorial
-The full tutorial is located in the [Deep learning in PAMGuard.pdf](Deep learning in PAMGuard.pdf) file. 
+The full tutorial is located in the [Deep learning in PAMGuard](https://github.com/macster110/PAMGuard_resources/blob/main/deep_learning/Deep%20learning%20in%20PAMGuard.pdf) pdf file. 
 
 ## Installation
 The deep learning module will be available as a core module from PAMGuard 2.01.06 onwards. This can be downloaded from the [PAMGuard website](www.pamguard.org).
