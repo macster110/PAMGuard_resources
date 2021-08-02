@@ -10,6 +10,8 @@ PAMGuard's deep learning module can import many different types of deep learning
 ## Tutorial
 The full tutorial is located in the [Deep learning in PAMGuard](https://github.com/macster110/PAMGuard_resources/blob/main/deep_learning/Deep%20learning%20in%20PAMGuard.pdf) pdf file. 
 
+Note that, although the AnimalSpot model for the bat exercise is availble here for the tutorial, the AnimalSpot Python library is still under code review and will be released in due course. 
+
 ## Installation
 The deep learning module will be available as a core module from PAMGuard 2.01.06 onwards. This can be downloaded from the [PAMGuard website](https://pamguard.org).
 
