@@ -10,7 +10,7 @@ The deep learning tutorial demonstrates the use PAMGuard's [deep learning module
   <img width="700" height="430" src = "screenshots/bat_deep_learning.png">
 </p>
 
-_Clicks plotted against Amplitude (dB) and coloured by the probability that a detection is a call from a Daubenton's bat (daub). The deep learning module was used to assign species probability to each detected bat call._
+_Clicks plotted against Amplitude (dB) and coloured by the probability that a detection is a call from a Myotis nattereri bat. The deep learning module was used to assign species probability to each detected bat call._
 
 ### Click train detection (Coming soon)
 Echolocation clicks can be difficult to accurately classify, especially if they are broadband transients typically produced by most delphinid species. The click train detector module in PAMGuard tracks sequences of clicks which exhibit slowly varying properties, e.g, inter click interval, amplitude, correlation etc, and can be used with both multi and single channel data. The click train tutorial demonstrates three use cases, towed hydrophone arrays, SoundTraps and an alternative open source click train detection algorithm for CPODs.  
