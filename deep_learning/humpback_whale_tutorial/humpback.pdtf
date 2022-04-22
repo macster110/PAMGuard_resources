@@ -1,0 +1,1 @@
+{"model_info":"{\"output_shape\":[-1,1],\"input_shape\":[-1,-1,-1,1]}","class_info":"{\"name_class\":\"Humbackwhale\",\"num_class\":1}","seg_size":"{\"size_ms\":3920}","load_audio":"{\"sr\":10000}"}
